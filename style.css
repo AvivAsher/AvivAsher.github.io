@@ -1,0 +1,19 @@
+
+body {
+	background-image: url(Photo.jpg);
+	background-size: cover;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	color: rgb(255, 255, 255);
+	margin: 0 auto;
+	margin-top: 250px;
+}
+
+
+.btn {
+	margin-left: 880px;
+	margin-top: 40px;
+}
